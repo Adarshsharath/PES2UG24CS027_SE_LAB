@@ -1,0 +1,29 @@
+FLAKE8 STATIC CODE ANALYSIS REPORT
+==================================
+
+Project: School Transport Register
+File Analyzed: school_transport.py
+Tool: Flake8
+Version: 7.4.1
+
+Command Executed:
+flake8 school_transport.py
+
+RESULT: PASS
+
+Total Violations Found: 0
+
+Analysis Summary:
+The Python source code was analyzed using Flake8.
+No style, formatting, or linting violations were detected.
+
+The code follows the applicable PEP 8 style guidelines,
+including proper indentation, naming conventions, spacing,
+and line formatting.
+
+Status: All checks passed successfully.
+
+Note:
+Flake8 produces an empty output file when no violations
+are detected. This report summary documents the successful
+analysis for submission purposes.
